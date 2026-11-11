@@ -1,0 +1,18 @@
+# Generated build files
+**/build/
+**/.dart_tool/
+**/.gradle/
+
+# Dart and Flutter generated files
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

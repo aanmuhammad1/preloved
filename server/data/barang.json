@@ -1,0 +1,134 @@
+[
+    {
+        "id": "BRG001",
+        "nama": "Buku Pemrograman Java",
+        "kategori": "Buku",
+        "kondisi": "Seperti Baru",
+        "harga": 75000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T09:00:00.000",
+        "penjual": "Andi",
+        "deskripsi": "Buku Java untuk mahasiswa yang masih terawat."
+    },
+    {
+        "id": "BRG002",
+        "nama": "Keyboard Mechanical",
+        "kategori": "Elektronik",
+        "kondisi": "Bekas",
+        "harga": 150000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T10:00:00.000",
+        "penjual": "Budi",
+        "deskripsi": "Keyboard mechanical masih berfungsi normal."
+    },
+    {
+        "id": "BRG003",
+        "nama": "Tas Kuliah",
+        "kategori": "Perlengkapan Kuliah",
+        "kondisi": "Seperti Baru",
+        "harga": 85000,
+        "bisaNego": false,
+        "diunggah": "2026-11-10T11:00:00.000",
+        "penjual": "Citra",
+        "deskripsi": "Tas kuliah dengan kondisi sangat baik."
+    },
+    {
+        "id": "BRG004",
+        "nama": "Lampu Belajar",
+        "kategori": "Perabot Kos",
+        "kondisi": "Bekas",
+        "harga": 45000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T12:00:00.000",
+        "penjual": "Deni",
+        "deskripsi": "Lampu belajar untuk meja kos."
+    },
+    {
+        "id": "BRG005",
+        "nama": "Mouse Wireless",
+        "kategori": "Elektronik",
+        "kondisi": "Baru",
+        "harga": 120000,
+        "bisaNego": false,
+        "diunggah": "2026-11-10T13:00:00.000",
+        "penjual": "Eka",
+        "deskripsi": "Mouse wireless belum pernah digunakan."
+    },
+    {
+        "id": "BRG006",
+        "nama": "Buku Basis Data",
+        "kategori": "Buku",
+        "kondisi": "Bekas",
+        "harga": 50000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T14:00:00.000",
+        "penjual": "Fajar",
+        "deskripsi": "Buku referensi mata kuliah basis data."
+    },
+    {
+        "id": "BRG007",
+        "nama": "Kursi Lipat",
+        "kategori": "Perabot Kos",
+        "kondisi": "Seperti Baru",
+        "harga": 95000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T15:00:00.000",
+        "penjual": "Gita",
+        "deskripsi": "Kursi lipat praktis untuk kamar kos."
+    },
+    {
+        "id": "BRG008",
+        "nama": "Kalkulator Scientific",
+        "kategori": "Perlengkapan Kuliah",
+        "kondisi": "Bekas",
+        "harga": 65000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T16:00:00.000",
+        "penjual": "Hadi",
+        "deskripsi": "Kalkulator scientific masih berfungsi."
+    },
+    {
+        "id": "BRG009",
+        "nama": "Headset Bluetooth",
+        "kategori": "Elektronik",
+        "kondisi": "Seperti Baru",
+        "harga": 180000,
+        "bisaNego": false,
+        "diunggah": "2026-11-10T17:00:00.000",
+        "penjual": "Indah",
+        "deskripsi": "Headset Bluetooth dengan suara jernih."
+    },
+    {
+        "id": "BRG010",
+        "nama": "Novel Bekas",
+        "kategori": "Buku",
+        "kondisi": "Bekas",
+        "harga": 30000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T18:00:00.000",
+        "penjual": "Joko",
+        "deskripsi": "Novel untuk koleksi bacaan santai."
+    },
+    {
+        "id": "BRG011",
+        "nama": "Rak Buku Mini",
+        "kategori": "Perabot Kos",
+        "kondisi": "Baru",
+        "harga": 220000,
+        "bisaNego": true,
+        "diunggah": "2026-11-10T19:00:00.000",
+        "penjual": "Kiki",
+        "deskripsi": "Rak buku mini untuk kamar kos."
+    },
+    {
+        "id": "BRG012",
+        "nama": "Binder Kuliah",
+        "kategori": "Perlengkapan Kuliah",
+        "kondisi": "Seperti Baru",
+        "harga": 25000,
+        "bisaNego": false,
+        "diunggah": "2026-11-10T20:00:00.000",
+        "penjual": "Lina",
+        "deskripsi": "Binder kuliah dengan kondisi baik."
+    }
+]
